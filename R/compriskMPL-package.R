@@ -5,5 +5,6 @@
 #' @import splines2
 #' @import statmod
 #' @import Matrix
+#' @import survival
 ## usethis namespace: end
 NULL
