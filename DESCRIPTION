@@ -19,6 +19,7 @@ Imports:
     splines2,
     statmod,
     stats,
-    utils,
+    utils
+Depends:
     survival
 RoxygenNote: 7.2.3
